@@ -1,0 +1,65 @@
+[
+  {
+    "img_product": "img/Layer_61.jpg",
+    "id_product": 161,
+    "product_name": "Hoody",
+    "price": 85,
+    "quantity": 1
+  },
+  {
+    "img_product": "img/Layer_62.jpg",
+    "id_product": 162,
+    "product_name": "Jacket",
+    "price": 184,
+    "quantity": 1
+  },
+  {
+    "img_product": "img/Layer_63.jpg",
+    "id_product": 163,
+    "product_name": "Jacket",
+    "price": 120,
+    "quantity": 1
+  },
+  {
+    "img_product": "img/Layer_64.jpg",
+    "id_product": 164,
+    "product_name": "T-Shirt",
+    "price": 85,
+    "quantity": 1
+  },
+  {
+    "img_product": "img/Layer_65.jpg",
+    "id_product": 165,
+    "product_name": "Hoody",
+    "price": 145,
+    "quantity": 1
+  },
+  {
+    "img_product": "img/Layer_66.jpg",
+    "id_product": 166,
+    "product_name": "Bomber",
+    "price": 120,
+    "quantity": 1
+  },
+  {
+    "img_product": "img/Layer_67.jpg",
+    "id_product": 167,
+    "product_name": "Blazer",
+    "price": 150,
+    "quantity": 1
+  },
+  {
+    "img_product": "img/Layer_68.jpg",
+    "id_product": 168,
+    "product_name": "Jacket",
+    "price": 185,
+    "quantity": 1
+  },
+  {
+    "img_product": "img/Layer_69.jpg",
+    "id_product": 169,
+    "product_name": "T-Shirt",
+    "price": 75,
+    "quantity": 1
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "img_product": "img/Layer_2.png",
+    "id_product": 101,
+    "product_name": "T-Shirt",
+    "price": 52,
+    "quantity": 1
+  },
+  {
+    "img_product": "img/Layer_3.png",
+    "id_product": 102,
+    "product_name": "Blouse",
+    "price": 190,
+    "quantity": 1
+  },
+  {
+    "img_product": "img/Layer_4.png",
+    "id_product": 103,
+    "product_name": "Jacket",
+    "price": 60,
+    "quantity": 1
+  },
+  {
+    "img_product": "img/Layer_5.png",
+    "id_product": 104,
+    "product_name": "Blouse floral-print",
+    "price": 65,
+    "quantity": 1
+  },
+  {
+    "img_product": "img/Layer_6.png",
+    "id_product": 105,
+    "product_name": "Blouse stripes",
+    "price": 180,
+    "quantity": 1
+  },
+  {
+    "img_product": "img/Layer_7.png",
+    "id_product": 106,
+    "product_name": "Blazer",
+    "price": 140,
+    "quantity": 1
+  },
+  {
+    "img_product": "img/Layer_8.png",
+    "id_product": 107,
+    "product_name": "Trousers",
+    "price": 180,
+    "quantity": 1
+  },
+  {
+    "img_product": "img/Layer_9.png",
+    "id_product": 108,
+    "product_name": "Hoody",
+    "price": 85,
+    "quantity": 1
+  }
+]
